@@ -136,7 +136,7 @@ header p{
 	margin-left: 0.375rem;
 	display: block;
 	margin-top: 1.25rem;
-	width: 5.225rem 2.375rem
+	width: 5.225rem
 }
 .m2_cc{
 	width: 17.5rem;
@@ -186,7 +186,7 @@ header p{
 	margin-left: 5.3rem;
 	margin-top: 2.775rem;
 	display: block;
-	width: 12.425rem 2.375rem
+	width: 12.425rem
 }
 .c3_t p{
 	font-size: 0.6rem;
@@ -269,7 +269,7 @@ header p{
 }
 .m4_t{
 	margin-top: 104px;
-	width: 8.75rem 2.4rem
+	width: 8.75rem
 }
 .m4_cc{
 	margin-top: 0.375rem;
@@ -372,7 +372,7 @@ header p{
 	position: absolute;
 	left: 150px;
 	top: 80px;
-	width: 12.875rem 2.375rem
+	width: 12.875rem
 }
 .main5 p{
 	font-size: 0.575rem;
@@ -453,6 +453,7 @@ header p{
 	float: right;
 	margin-top: 1.625rem;
 	margin-right: 0.25rem;
+	width: 7.575rem
 }
 .main7 > p{
 	font-size: 0.575rem;
