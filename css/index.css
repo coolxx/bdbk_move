@@ -52,7 +52,7 @@ header p{
 	background-size: 18.0rem 13.425rem
 }
 .main1 img{
-	margin-left: 10px;
+	margin-left: 0.25rem;
 	display: block;
 	width: 5.925rem
 }
@@ -264,11 +264,11 @@ header p{
 }
 .main4 .ld_r{
 	position: absolute;
-	right: 45px;
+	right: 1.125rem;
 	top: 0
 }
 .m4_t{
-	margin-top: 104px;
+	margin-top: 2.6rem;
 	width: 8.75rem
 }
 .m4_cc{
