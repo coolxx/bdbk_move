@@ -366,7 +366,8 @@ header p{
 .m5_i1{
 	position: absolute;
 	left: 0.5rem;
-	top: 0
+	top: 0;
+	width: 2.375rem
 }
 .m5_i2{
 	position: absolute;
