@@ -385,6 +385,9 @@ header p{
 	color: #8c7c6b;
 	text-align: center;
 }
+.main5 p.gaode{
+	margin-top: 5.275rem
+}
 .main5 .aa{
 	overflow: hidden;
 	margin-top: 1.0rem;
@@ -394,7 +397,6 @@ header p{
 	float: right;
 	padding-left: 1.125rem;
 	font-size: 0.55rem;
-	line-height: 0.55rem;
 	color: #574a3c;
 	background: url(../image/jt.png) no-repeat 0.5rem center;
 	background-size: 0.35rem 0.5rem;
@@ -476,7 +478,6 @@ header p{
 	float: right;
 	padding-left: 1.375rem;
 	font-size: 0.55rem;
-	line-height: 0.55rem;
 	color: #574a3c;
 	background: url(../image/jt2.png) no-repeat 0.5rem center;
 	background-size: 0.7rem 0.575rem;
