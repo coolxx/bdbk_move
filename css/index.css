@@ -370,8 +370,8 @@ header p{
 }
 .m5_i2{
 	position: absolute;
-	left: 150px;
-	top: 80px;
+	left: 3.75rem;
+	top: 2.0rem;
 	width: 12.875rem
 }
 .main5 p{
@@ -478,6 +478,7 @@ header p{
 	line-height: 0.55rem;
 	color: #574a3c;
 	background: url(../image/jt2.png) no-repeat 0.5rem center;
+	background-size: 0.7rem 0.575rem;
 	display: block;
 	float: left;
 	text-decoration: underline;
