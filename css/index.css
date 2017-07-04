@@ -211,15 +211,15 @@ header p{
 	line-height: 0.825rem;
 	padding: 0.25rem 0 0.25rem 2.0rem;
 	float: left;
-	background: url(../image/c3_cc.png) no-repeat 25px center;
+	background: url(../image/c3_cc.png) no-repeat 0.625rem center;
 	background-size: 0.925rem 0.9rem
 }
 .c3_cc2 h1{
-	background: url(../image/c3_cc2.png) no-repeat 25px center;
+	background: url(../image/c3_cc2.png) no-repeat 0.625rem center;
 	background-size: 0.95rem 0.95rem;
 }
 .c3_cc3 h1{
-	background: url(../image/c3_cc3.png) no-repeat 25px center;
+	background: url(../image/c3_cc3.png) no-repeat 0.625rem center;
 	background-size: 0.9rem 0.85rem;
 }
 .c3_cc p{
@@ -351,9 +351,6 @@ header p{
 	display: block;
 	color: #fff;
 	margin: 0 auto;
-}
-.zyk{
-	margin-top: 1.375rem
 }
 .main5{
 	width: 18.0rem;
